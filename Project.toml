@@ -1,0 +1,8 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NamedArrays = "86f7a689-2022-50b4-a561-43c23ac3c673"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+SimSpread = "afa5cc60-bf5a-45b9-aa6c-27158a106b2a"
